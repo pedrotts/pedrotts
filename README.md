@@ -3,7 +3,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá! Me chamo Pedro Henrique Tetê, tenho 19 anos e sou estudante de Sistemas de Informação. Sou apaixonado por tecnologia e programação, sempre em busca de aprender mais e me desenvolver na área. Gosto de desafios e de criar soluções práticas e eficientes por meio do código. Estou construindo meu caminho como programador e buscando crescer profissionalmente a cada projeto e oportunidade.
+Olá! Me chamo Pedro Henrique Tetê, tenho 19 anos e sou estudante de Sistemas de Informação no Centro Universitario Jorge Amado. Sou apaixonado por tecnologia e programação, sempre em busca de aprender mais e me desenvolver na área. Gosto de desafios e de criar soluções práticas e eficientes por meio do código. Estou construindo meu caminho como programador e buscando crescer profissionalmente a cada projeto e oportunidade.
 
 ------
 
