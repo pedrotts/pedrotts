@@ -12,8 +12,7 @@ Olá! Me chamo Pedro Henrique Tete, tenho 19 anos e sou estudante de Sistemas de
 
 
 ------
-### 🤖 Linguagens e Tecnologias
-
+### 🤖 My Stack
 <img 
     align="left" 
     alt="HTML"
