@@ -44,7 +44,7 @@ Olá! Me chamo Pedro Henrique Tete, tenho 19 anos e sou estudante de Sistemas de
     title="C" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.sv" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 
 
