@@ -4,6 +4,23 @@
 
 Olá! Me chamo Pedro Henrique Tete, tenho 19 anos e sou estudante de Sistemas de Informação. Sou apaixonado por tecnologia e programação, sempre em busca de aprender mais e me desenvolver na área. Gosto de desafios e de criar soluções práticas e eficientes por meio do código. Estou construindo meu caminho como programador e buscando crescer profissionalmente a cada projeto e oportunidade.
 
+<p align="left">
+<a href="https://github.com/pedrotts?tab=repositories">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/pedrotts?tab=following">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
