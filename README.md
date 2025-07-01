@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=30&pause=1000&color=2CF7EE&width=435&lines=%E2%99%A0+Welcome+to+my+profile!+%E2%99%A0)](https://git.io/typing-svg)
-# 🧰 Pedro Tetê
+#  Pedro Henrique Tetê
 
 **`Desenvolvedor FullStack`**
 
@@ -12,7 +12,7 @@ Olá! Me chamo Pedro Henrique Tetê, tenho 19 anos e sou estudante de Sistemas d
 
 
 ------
-### 🤖 My Stack
+###  My Stack
 <img 
     align="left" 
     alt="HTML"
