@@ -64,7 +64,7 @@ Olá! Me chamo Pedro Henrique Tetê, tenho 19 anos e sou estudante de Sistemas d
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
 
-
+------
 
 <p><img alinhar="esquerda" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrotts&show_icons=true&locale=en&layout=compact" alt="pedrotts" /></p>
 
