@@ -16,6 +16,13 @@ Olá! Me chamo Pedro Henrique Tetê, tenho 19 anos e sou estudante de Sistemas d
 </div>
 
 ------
+### my Resume
+
+<a href="https://github.com/pedrotts/pedrotts/raw/main/ScrumFundamentalsCertified-PedroHenrique-1086077.pdf" download>
+  📄 Baixar Currículo (PDF)
+</a>
+
+------
 
 ###  My Stack
 <img 
@@ -66,14 +73,7 @@ Olá! Me chamo Pedro Henrique Tetê, tenho 19 anos e sou estudante de Sistemas d
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
-                   
-------
-### my Resume
-
-<a href="https://github.com/pedrotts/pedrotts/raw/main/ScrumFundamentalsCertified-PedroHenrique-1086077.pdf" download>
-  📄 Baixar Currículo (PDF)
-</a>
-
+                  
 
 
 ###
