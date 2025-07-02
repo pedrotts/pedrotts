@@ -82,4 +82,3 @@ Olá! Me chamo Pedro Henrique Tetê, tenho 19 anos e sou estudante de Sistemas d
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrotts/pedrotts/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pedrotts/pedrotts/output/pacman-contribution-graph.svg">
 </picture>
-###
