@@ -72,6 +72,15 @@ Olá! Me chamo Pedro Henrique Tetê, tenho 19 anos e sou estudante de Sistemas d
 
 <p><img alinhar="centro" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrotts&" alt="pedrotts" /></p>
 
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=pedrotts&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=pedrotts&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrotts/pedrotts/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrotts/pedrotts/output/pacman-contribution-graph.svg">
