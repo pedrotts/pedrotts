@@ -6,6 +6,8 @@
 Olá! Me chamo Pedro Henrique Tetê, tenho 19 anos e sou estudante de Sistemas de Informação no Centro Universitario Jorge Amado. Sou apaixonado por tecnologia e programação, sempre em busca de aprender mais e me desenvolver na área. Gosto de desafios e de criar soluções práticas e eficientes por meio do código. Estou construindo meu caminho como programador e buscando crescer profissionalmente a cada projeto e oportunidade.
 
 ------
+My Contact
+
 <div> 
   <a href="https://www.instagram.com/pedrotts_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:pedrotete1302@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
